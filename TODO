@@ -1,0 +1,3 @@
+
+* handle error if they don't have git installed
+* configure git automatically so they don't have to type password to push

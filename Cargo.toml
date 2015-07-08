@@ -1,0 +1,7 @@
+[package]
+name = "gh-pages"
+version = "0.1.0"
+authors = ["Toby Ho <airportyh@gmail.com>"]
+[dependencies]
+hyper = "*"
+rustc-serialize = "*"
